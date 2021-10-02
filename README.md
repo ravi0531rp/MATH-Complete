@@ -11,6 +11,7 @@
 * 004 - <a href="https://github.com/ravi0531rp/MATH-Complete/tree/master/LinearAlgebra/rank"> Matrix Ranks </a>
 * 005 - <a href="https://github.com/ravi0531rp/MATH-Complete/tree/master/LinearAlgebra/spaces"> Matrix Spaces </a>
 * 006 - <a href="https://github.com/ravi0531rp/MATH-Complete/tree/master/LinearAlgebra/systems"> Systems of Equations </a>
+* 006 - <a href="https://github.com/ravi0531rp/MATH-Complete/tree/master/LinearAlgebra/determinants"> Determinants </a>
 * 007 - <a href="https://github.com/ravi0531rp/MATH-Complete/tree/master/LinearAlgebra/inverse"> Matrix Inverse </a>
 * 008 - <a href="https://github.com/ravi0531rp/MATH-Complete/tree/master/LinearAlgebra/projorth"> Projections and Orthogonalization </a>
 * 009 - <a href="https://github.com/ravi0531rp/MATH-Complete/tree/master/LinearAlgebra/leastsquares"> Least Squares </a>
